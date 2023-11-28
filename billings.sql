@@ -19,6 +19,10 @@
 -- Table structure for table `bill`
 --
 
+CREATE DATABASE billings;
+
+USE billings;
+
 DROP TABLE IF EXISTS `bill`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
